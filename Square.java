@@ -5,13 +5,13 @@ class Square{
 		String s="";
 		for(int i=0;i<7;i++)
 		{
-			s=s+"*/";
+			s=s+"*/0";
 		}
 		System.out.println(s); s="*/";
 		for(int i=0;i<5;i++)
 		{
 			s=s+" ";
-		}s=s+"*/";
+		}s=s+"*/0";
 		
 		for(int i=0;i<5;i++)
 		{
